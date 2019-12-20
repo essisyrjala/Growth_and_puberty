@@ -1,12 +1,12 @@
 # Growth_and_puberty
 
-Essi Syrjälä
-Harri Niinikoski 
-Helena E. Virtanen
-Jorma Ilonen
-Mikael Knip 
-Nina Hutri-Kähönen
-Katja Pahkala
+Essi Syrjälä,
+Harri Niinikoski, 
+Helena E. Virtanen,
+Jorma Ilonen,
+Mikael Knip, 
+Nina Hutri-Kähönen,
+Katja Pahkala \\
 Olli T. Raitakari 
 Wiwat Rodprasert
 Jorma Toppari
