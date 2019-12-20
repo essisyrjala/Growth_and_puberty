@@ -15,5 +15,5 @@ Riitta Veijola,
 Jaakko Peltonen,
 Jaakko Nevalainen
 
-This repository contains the Supplementary Material for our paper "Multicohort analysis of growth and its ability 
+This repository contains the Supplementary Material for the paper "Multicohort analysis of growth and its ability 
 to determine the timing of the pubertal onset".
